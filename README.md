@@ -125,3 +125,5 @@ They return JSON responses that the UI uses to update button states and counters
 - Feature ideas: comments, messaging, profile pictures, event images, richer profiles.
 - Engineering improvements: stricter validation, clearer separation of concerns, and more automated tests.
 
+
+
